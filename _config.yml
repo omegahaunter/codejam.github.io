@@ -23,16 +23,16 @@
 #- .jekyll-cache
 
 # 2. Installed Gems
-plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
+#plugins:
+#- jekyll-sitemap
+#- jekyll-mentions
+#- jekyll-paginate
+#- jekyll-seo-tag
+#- jekyll-redirect-from
+#- jekyll-feed
+#- jekyll-commonmark
+#- jekyll-include-cache
+#- jemoji
 
 # 3. Gem settings
 #paginate: 2 # jekyll-paginate > items per page
