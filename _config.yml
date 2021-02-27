@@ -93,9 +93,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "InstaChat" # Site name or title, also used in jekyll-seo-tag
+title: "ARchat" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Immediately connect and chat over shared intrests!" # Site description and default description, also used in jekyll-seo-tag
+description: "Connect and chat over shared intrests while using AR!" # Site description and default description, also used in jekyll-seo-tag
 #url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 #baseurl: ""
 #repo: "https://github.com/daviddarnes/alembic"
